@@ -1,1 +1,1 @@
-![](https://github.com/chillcaw/spring-cicd/workflows/tests/badge.svg)
+![](https://github.com/chillcaw/spring-cicd/workflows/maven/badge.svg)
