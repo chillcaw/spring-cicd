@@ -20,6 +20,6 @@ public class GreetingTest {
 	
 	@Test
 	public void testGreetingRoute() {
-		assertTrue(controller.greeting() == "hello");
+		assertTrue(controller.greeting() == "meep");
 	}
 }
